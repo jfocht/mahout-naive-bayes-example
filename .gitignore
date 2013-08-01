@@ -1,3 +1,9 @@
 bin
 target
 env.sh
+df-count
+model
+tweets-seq
+labelindex
+\.df-count.crc
+dictionary*
